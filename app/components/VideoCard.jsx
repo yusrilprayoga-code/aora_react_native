@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ResizeMode, Video } from "expo-av";
+import { Video, ResizeMode } from "expo-av";
 import { View, Text, TouchableOpacity, Image } from "react-native";
 
 import { icons } from "../../constants"
