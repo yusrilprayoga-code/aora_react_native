@@ -13,8 +13,7 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "package": "com.yusril.aora"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
