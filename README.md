@@ -7,18 +7,16 @@ Aora is a dynamic, mobile-first video sharing platform that brings the power of 
 video-sharing react-native mobile-app javascript user-authentication video-streaming content-creation social-media cross-platform ios android
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
-5. [Usage](#usage)
-6. [API Documentation](#api-documentation)
-7. [Deployment](#deployment)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgements](#acknowledgements)
+- [Aora Video Sharing Platform](#aora-video-sharing-platform)
+  - [Description](#description)
+  - [Topics](#topics)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
 
 ## Features
 - User authentication and profile management
