@@ -3,9 +3,6 @@
 ## Description
 Aora is a dynamic, mobile-first video sharing platform that brings the power of content creation and consumption to your mobile device. Built with React Native, Aora offers a seamless native app experience for uploading, watching, and interacting with videos. With features like user authentication, video uploading, commenting, and personalized recommendations, Aora provides a robust alternative to platforms like YouTube, optimized for mobile devices. Whether you're a content creator looking to share your vision or a viewer seeking entertainment and knowledge on-the-go, Aora offers an intuitive and engaging platform for all your video needs.
 
-## Website
-https://aora-video.com
-
 ## Topics
 video-sharing react-native mobile-app javascript user-authentication video-streaming content-creation social-media cross-platform ios android
 
